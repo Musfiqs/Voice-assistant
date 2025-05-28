@@ -1,4 +1,4 @@
-# 🎤 ARIA Voice Assistant
+# 🎤 SIMPLE VOICE ASSISTANT
 
 A futuristic AI voice assistant with a dark-themed GUI, built with Python. Features both demo mode and real OpenAI integration.
 
